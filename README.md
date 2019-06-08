@@ -1,5 +1,5 @@
 # Bankdex-Announcements
-Read our latest news here.
+https://www.bankdex.io/
 
 We are delighted to announce the launch of BankDex a decentralised cryptocurrency exchange. The exchange is built on an innovative and groundbreaking technology that facilitates inter-blockchain transfer of crypto assets. 
 
