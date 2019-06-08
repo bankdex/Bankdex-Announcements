@@ -7,4 +7,5 @@ We bring the most unique features to the decentralized exchange world like low f
 
 Experience the freedom of trading across multiple blockchains with unparalleled efficiency and reliability!
 
-# Announcing teh launch of ICO - https://www.coinhills.com/ico/view/bankdex/
+# Announcing the launch of ICO 
+https://www.coinhills.com/ico/view/bankdex/
